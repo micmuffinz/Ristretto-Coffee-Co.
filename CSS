@@ -78,6 +78,7 @@ a:hover {
     width:100%; /* this allows for the line under the nav-links to go from not being visible to being completely visible */
 }
 
+ 
  /* Scroll bar */
  ::-webkit-scrollbar {
      width: 12px;
@@ -104,7 +105,7 @@ a:hover {
 
 .hero-bg {
     background-color: #BE9B7B;
-    height: 35rem;
+    height: 35rembackgro;
     width: 85rem;
     border-radius: 0rem;
     transform: rotate(-45deg);
